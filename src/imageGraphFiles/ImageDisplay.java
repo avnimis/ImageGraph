@@ -1,4 +1,4 @@
-package week9;
+package imageGraphFiles;
 
 import java.io.File;
 import java.util.InputMismatchException;

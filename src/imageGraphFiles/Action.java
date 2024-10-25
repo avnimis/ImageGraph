@@ -1,4 +1,4 @@
-package week9;
+package imageGraphFiles;
 
 import java.awt.Color;
 import java.util.ArrayList;

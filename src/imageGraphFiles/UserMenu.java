@@ -1,4 +1,4 @@
-package week9;
+package imageGraphFiles;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

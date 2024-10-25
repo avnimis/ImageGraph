@@ -1,8 +1,8 @@
-package week9;
+package imageGraphFiles;
 
 import java.awt.Color;
 
-import week9.ImageGraph.Direction;
+import imageGraphFiles.ImageGraph.Direction;
 
 public class Pixel {
 	public Color color;
